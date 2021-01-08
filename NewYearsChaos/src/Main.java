@@ -22,13 +22,17 @@ public class Main {
 
     // Complete the minimumBribes function below.
     static void minimumBribes(int[] q) {
-
+        for(int i = 0; i < q.length; i++)
+        {
+            System.out.println(q[i]);
+        }
 
     }
 
-    private static final Scanner scanner = new Scanner(System.in);
+
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
         int t = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
@@ -44,8 +48,9 @@ public class Main {
             for (int i = 0; i < n; i++) {
                 int qItem = Integer.parseInt(qItems[i]);
                 q[i] = qItem;
+                //System.out.println(q[i]);
             }
-
+            //System.out.println(q);
             minimumBribes(q);
         }
 
