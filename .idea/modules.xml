@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HackerRank_Practice.iml" filepath="$PROJECT_DIR$/HackerRank_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinimumSwaps2/MinimumSwaps2.iml" filepath="$PROJECT_DIR$/MinimumSwaps2/MinimumSwaps2.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewYearsChaos/NewYearsChaos.iml" filepath="$PROJECT_DIR$/NewYearsChaos/NewYearsChaos.iml" />
       <module fileurl="file://$PROJECT_DIR$/SalesByMatch/SalesByMatch.iml" filepath="$PROJECT_DIR$/SalesByMatch/SalesByMatch.iml" />
     </modules>
