@@ -44,6 +44,7 @@ Each of the next t pairs of lines are as follows:
 Too chaotic
 
 ## Explanation
+
 The Initial State:
 ![alt text](https://s3.amazonaws.com/hr-challenge-images/494/1451665589-31d436ba19-pic11.png)
 
